@@ -1,6 +1,6 @@
 # This program is used to check the accuracy of the transition probabilities
 
-from FYP import *
+from all_functions import *
 import pandas as pd
 import scipy as sp
 from scipy.stats import hypergeom

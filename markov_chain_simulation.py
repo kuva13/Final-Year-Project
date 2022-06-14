@@ -4,7 +4,7 @@
 # In[3]:
 
 
-from FYP import *
+from all_functions import *
 
 
 # In[4]:

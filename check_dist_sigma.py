@@ -1,6 +1,6 @@
 # This program is used to check accuracy of the counter distributions
 
-from FYP import *
+from all_functions import *
 import pandas as pd
 import scipy as sp
 from scipy.stats import hypergeom
