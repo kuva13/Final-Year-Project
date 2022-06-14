@@ -1,4 +1,4 @@
-from FYP import *
+from all_functions import *
 
 ##################################### Setting parameters ###################################
 
